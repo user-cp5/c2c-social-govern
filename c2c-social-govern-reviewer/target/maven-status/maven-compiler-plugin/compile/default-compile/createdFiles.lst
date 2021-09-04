@@ -1,0 +1,13 @@
+com\zhss\c2c\social\govern\reviewer\dao\Impl\ReviewDaoImpl.class
+com\zhss\c2c\social\govern\reviewer\mapper\ReviewMapper.class
+com\zhss\c2c\social\govern\reviewer\api\ReviewerService.class
+com\zhss\c2c\social\govern\reviewer\domain\ReviewerTaskStatus.class
+com\zhss\c2c\social\govern\reviewer\dao\ReviewerTaskStatusDAOImpl.class
+com\zhss\c2c\social\govern\reviewer\db\DruidDataSourceConfig.class
+com\zhss\c2c\social\govern\reviewer\Application.class
+com\zhss\c2c\social\govern\reviewer\dao\ReviewDao.class
+com\zhss\c2c\social\govern\reviewer\SocialGovernReviewer.class
+com\zhss\c2c\social\govern\reviewer\dao\ReviewerTaskStatusDAO.class
+com\zhss\c2c\social\govern\reviewer\service\ReviewerServiceImpl.class
+com\zhss\c2c\social\govern\reviewer\dao\Impl\ReviewerTaskStatusDAOImpl.class
+com\zhss\c2c\social\govern\reviewer\mapper\ReviewerTaskStatusMapper.class
